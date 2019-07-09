@@ -4,6 +4,9 @@ class MyAppHome extends StatelessWidget {
   @override
   final List<String> items = [
     'demo1',
+    'demo2',
+    'demo3',
+    'demo4',
   ];
   Widget build(BuildContext context) {
     return Scaffold(

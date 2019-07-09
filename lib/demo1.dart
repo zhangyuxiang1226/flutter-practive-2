@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import './bottom_nav.dart';
-
+/**
+ * demo1: 规则的底部导航栏
+ */
 void main() => runApp(Demo1());
 
 class Demo1 extends StatelessWidget {
