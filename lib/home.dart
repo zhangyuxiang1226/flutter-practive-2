@@ -7,6 +7,8 @@ class MyAppHome extends StatelessWidget {
     'demo2',
     'demo3',
     'demo4',
+    'demo5',
+    'demo6',
   ];
   Widget build(BuildContext context) {
     return Scaffold(

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import './bottom_nav_custom.dart';
+import './widgets/bottom_nav_custom.dart';
 /**
  * demo2: 非规则的底部导航栏，如snapshot底部有个+按钮
  * bottom_nav_custom 组件，非规则底部栏

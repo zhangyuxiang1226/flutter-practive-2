@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import './pages/home_screen.dart';
-import './pages/email_screen.dart';
-import './pages/pages_screen.dart';
-import './pages/airplay_screen.dart';
+import '../pages/home_screen.dart';
+import '../pages/email_screen.dart';
+import '../pages/pages_screen.dart';
+import '../pages/airplay_screen.dart';
 
 class BottomNavWidget extends StatefulWidget {
   @override

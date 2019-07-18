@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import './bottom_nav.dart';
+import './widgets/bottom_nav.dart';
 /**
  * demo1: 规则的底部导航栏
  */

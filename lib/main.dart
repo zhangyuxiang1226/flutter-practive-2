@@ -4,6 +4,8 @@ import './demo1.dart';
 import './demo2.dart';
 import './demo3.dart';
 import './demo4.dart';
+import './demo5.dart';
+import './demo6.dart';
 
 void main() => runApp(MaterialApp(
       home: MyAppHome(), // becomes the route named '/'
@@ -12,5 +14,7 @@ void main() => runApp(MaterialApp(
         '/demo2': (BuildContext context) => Demo2(),
         '/demo3': (BuildContext context) => Demo3(),
         '/demo4': (BuildContext context) => Demo4(),
+        '/demo5': (BuildContext context) => Demo5(),
+        '/demo6': (BuildContext context) => Demo6(),
       },
     ));
