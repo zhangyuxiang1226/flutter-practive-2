@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../custom_route_anime.dart'; // 引入自定义route动画
+import '../widgets/custom_route_anime.dart'; // 引入自定义route动画
 /**
  * 用于demo3
  */

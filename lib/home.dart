@@ -9,6 +9,15 @@ class MyAppHome extends StatelessWidget {
     'demo4',
     'demo5',
     'demo6',
+    'demo7',
+    'demo8',
+    'demo9',
+    'demo10',
+    'demo11',
+    'demo12',
+    'demo13',
+    'demo14',
+    'demo15',
   ];
   Widget build(BuildContext context) {
     return Scaffold(
