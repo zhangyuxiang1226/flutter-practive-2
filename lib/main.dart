@@ -11,6 +11,9 @@ import './demo8.dart';
 import './demo9.dart';
 import './demo10.dart';
 import './demo11.dart';
+import './demo12.dart';
+import './demo13.dart';
+import './demo14.dart';
 
 void main() => runApp(MaterialApp(
       home: MyAppHome(), // becomes the route named '/'
@@ -26,6 +29,9 @@ void main() => runApp(MaterialApp(
         '/demo9': (BuildContext context) => Demo9(),
         '/demo10': (BuildContext context) => Demo10(),
         '/demo11': (BuildContext context) => Demo11(),
+        '/demo12': (BuildContext context) => Demo12(),
+        '/demo13': (BuildContext context) => Demo13(),
+        '/demo14': (BuildContext context) => Demo14(),
       },
       debugShowCheckedModeBanner: false, // 这一行去掉右上角debug图标
     ));
